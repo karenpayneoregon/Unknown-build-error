@@ -43,5 +43,5 @@ Why did this happen, not a clue.
 
 **What can be learned from this?**
 
-First and foremost, learn to work with source control along with never committing code which will not build and secondly, in a situation like this after search in Google for no more than two minutes know that you most likely are on your own. Not a pleasant thought if no to coding and this will come with experience.
+First and foremost, learn to work with source control along with never committing code which will not build and secondly, in a situation like this after search in Google for no more than two minutes know that you most likely are on your own. Not a pleasant thought if new to coding and this will come with experience.
 
